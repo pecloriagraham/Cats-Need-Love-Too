@@ -1,0 +1,83 @@
+ .header {
+     border: 15px solid black;
+     margin: 10px;
+     color: purple;
+     padding: 20px;
+ }
+
+ .donate {
+     border: 15px solid black;
+     margin: 10px;
+     color: blue;
+     padding: 20px;
+ }
+
+ .container {
+     border: 15px solid black;
+     margin: 10px;
+     color: yellow;
+     padding: 20px;
+ }
+
+ .dogs {
+     border: 15px solid black;
+     margin: 10px;
+     color: purple;
+     padding: 20px;
+ }
+
+ img {
+     width: 30%
+
+ }
+
+
+ .header:hover {
+     background-color: yellow;
+ }
+
+ .donate:hover {
+     background-color: purple;
+ }
+
+ .container:hover {
+     background-color: hotpink;
+ }
+
+ .dogs:hover {
+     background-color: blue;
+ }
+
+ img:hover {
+     box-shadow: 0 0 30px 1px rgba(100, 140, 186, 20.5);
+ }
+
+ h1 {
+     font-family: 'Calistoga', cursive;
+     font-size: 50px;
+     text-align: center;
+ }
+
+ p {
+     font-family: 'Odibee Sans', cursive;
+     font-size: 30px;
+
+
+ }
+
+ h2{
+     font-family: 'Anton', sans-serif;
+     font-size: 20px;
+ }
+
+ .pics
+     display: flex;
+     justify-content: center;
+ }
+
+ .container {
+     display: flex;
+ }
+ .buttons{
+     text-align:center;
+ }
